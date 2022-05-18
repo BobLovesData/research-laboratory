@@ -1,0 +1,8 @@
+dns: 'DSN=ETL;'
+local_directory: 'C:/FileDepot/'
+remote_directory: 'EODData/'
+from_address: ''
+to_address: ''
+password: ''
+smtp_server: 'smtp.gmail.com'
+smtp_port: 465
